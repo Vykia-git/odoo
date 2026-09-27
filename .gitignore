@@ -13,3 +13,7 @@ sessions/
 # OS
 .DS_Store
 Thumbs.db
+# Secrets / local config
+config/odoo.conf
+.env
+.ruff_cache/

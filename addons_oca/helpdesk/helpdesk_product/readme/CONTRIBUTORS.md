@@ -1,4 +1,0 @@
-- [ForgeFlow](https://www.forgeflow.com):
-  - Maria Buscallà \<<maria.buscalla@forgeflow.com>\>
-- [Tecnativa](https://www.tecnativa.com):
-  - David Bañón Gil

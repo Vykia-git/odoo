@@ -1,3 +1,0 @@
-- Holger Brunn \<hbrunn@therp.nl\>
-- [Heliconia Solutions Pvt. Ltd.](https://www.heliconia.io)
-  - Bhavesh Heliconia

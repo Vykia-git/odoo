@@ -1,3 +1,0 @@
-- [Quartile](https://www.quartile.co):
-  - Yoshi Tashiro
-- Miquel Pascual \<<mpascual@apsl.net>\>

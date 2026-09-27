@@ -12,8 +12,9 @@ RUN pip install --no-cache-dir cssselect --break-system-packages
 #   pycountry             -> l10n_es_facturae
 #   chardet               -> importación de extractos N43
 #   python-dateutil       -> account_asset_management (amortización de activos)
+#   openupgradelib        -> contract_payment_mode (scripts de migración OCA)
 RUN pip install --no-cache-dir \
-    zeep requests unidecode num2words pycountry chardet python-dateutil \
+    zeep requests unidecode num2words pycountry chardet python-dateutil openupgradelib \
     --break-system-packages
 
 USER odoo
